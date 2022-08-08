@@ -1,0 +1,22 @@
+[
+    {
+        "categoria": "Camiones",
+        "pregunta": "¿Que camion es?",
+        "respuesta": "619 n1",
+        "incorrecta1": "190-33",
+        "incorrecta2": "619 t1",
+        "incorrecta3": "113",
+        "imagen": "imagen/619.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Motores",
+        "pregunta": "Cuantos CV tiene este motor?",
+        "respuesta": "260",
+        "incorrecta1": "180",
+        "incorrecta2": "220",
+        "incorrecta3": "250",
+        "imagen": "imagen/motor.jpg",
+        "objectFit": "cover"
+    }   
+]
